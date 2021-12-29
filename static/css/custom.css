@@ -1,0 +1,115 @@
+header, 
+.feature-right-content .content-side .deal-timing,
+.sticky-nav.menu_fixed,
+.slider-nav-style-1 .swiper-buttons .swiper-button-next:hover, 
+.slider-nav-style-1 .swiper-buttons .swiper-button-prev:hover {
+    background-color: #4056A1 !important;
+}
+header .main-menu{
+    background-color: #D79920 !important;
+}
+header .header-top .top-nav ul li a i {
+    color: #F13C1F !important;
+}
+header .header-top {
+    border-bottom: 1px solid #fff !important;
+}
+header .header-top .top-nav ul li:not(:last-child) {
+    border-right: 1px solid #fff !important;
+}
+header .header-bottom 
+.header-actions 
+.header-action-btn 
+.header-action-num,
+.style-two .single-banner .banner-content .shop-link {
+    background-color: #F13C1F !important;
+}
+/* .breadcrumb-area {
+    background-image:url(../images/banner/neurodiam.jpg);
+    background-repeat:no-repeat;
+    background-size: cover;
+} */
+.search-element form button,
+.product .badges span.sale,
+.style-three .single-banner .banner-content .shop-link,
+.feature-right-content .content-side .deal-timing {
+    background-color: #F13C1F !important;
+}
+.hero-slide-content.hero-slide-content-2 .price .amount {
+    color: #D79920 !important;
+}
+#scrollUp,
+.feature-right-content .image-side .add-to-cart,
+.feature-right-content .content-side .product-feature ul li::after,
+.single-feature .feature-icon {
+    background: #4056A1 !important;
+}
+.single-blog .blog-athor-date span i {
+    color: #4056A1 !important;
+}
+.btn-primary.blog-btn:hover,
+.btn-primary:hover {
+    background: #4056A1 !important;
+    border-color: #4056A1 !important;
+}
+.fashion-area {
+    background-color: #C5CBE3 !important;
+}
+/* .bg-color1 {
+    background-color: #C5CBE3 !important;
+} */
+.badges .new {
+    background-color:#F13C1F !important;
+}
+
+.badges .used {
+    background-color:#D79920 !important;
+}
+.product .content .title {
+    margin: 10px 5px 10px 5px;
+}
+.product .content .title a {
+    font-size: 14px;
+    font-weight: 500;
+}
+.thumb-img {
+    max-height: 231px;
+    max-width: 220px !important;
+    display: flex;
+    margin: 0 auto;
+}
+a.selected.m-0.active {
+    color:#D79920;
+}
+.breadcrumb-area {
+    background-color: transparent !important;
+    height: 50px;
+    border-radius: 10px;
+}
+.alert-breadcrumb {
+    padding: 0.1rem 0.1rem;
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+    color: #6c6c6c;
+    border: 2px solid #e1e1e1;
+}
+.breadcrumb {
+    padding: 10px;
+    margin-bottom: 0px;
+}
+.pt-30px {
+    padding-top: 30px;
+}
+.pb-30px {
+    padding-bottom: 30px;
+}
+.slider-height-2 {
+    height: 450px;
+}
+.no-padding {
+    padding-left: 0px;
+    padding-right: 0px;
+}
+.search-element {
+    max-width: 100% !important;
+}
